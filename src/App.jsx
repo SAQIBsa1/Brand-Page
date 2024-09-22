@@ -7,6 +7,7 @@ const App = () => {
       <div>
       <Nav />
       <h2>i am saqib sayeed</h2>
+      <h2>i study in hbtu kanpur</h2>
       <HeroSection />
       </div>
     );
