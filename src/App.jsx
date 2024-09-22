@@ -6,6 +6,7 @@ const App = () => {
     return (
       <div>
       <Nav />
+      <h2>i am saqib sayeed</h2>
       <HeroSection />
       </div>
     );
